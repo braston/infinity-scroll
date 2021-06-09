@@ -1,6 +1,6 @@
 # Infinity Scroll Project
 
-This was a quick project from a Javascript Web Project course on Udemy. Fundamentals covered:
+*This was a quick project from a Javascript Web Project course on Udemy. Fundamentals covered:
 
 -Used loading.io to generate custom "loading" graphic. Included this in project via source link in image element  
 -Centering custom load image via CSS translate command (avoids centering on corner of image, removes offset)  
