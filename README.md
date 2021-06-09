@@ -8,3 +8,6 @@
 -Using DRY principle (do not repeat) to optimize processing of API data  
 -Using forEach() to traverse arrays and document.createElement / element.setAttribute commands to add to DOM  
 -Worked with window and associated properties, as well as DOM scroll event to detect when a user has scrolled to end of page  
+
+See it live here:  
+https://braston.github.io/infinity-scroll/
